@@ -127,5 +127,4 @@ etl-data-quality-pipeline/
 
 ## Author
 
-Divesh Singh
-[GitHub](https://github.com/sdiveshh)
+Samiksha Ojha
